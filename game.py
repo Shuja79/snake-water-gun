@@ -8,7 +8,7 @@ import random as rd
 '''
 Key = [1 , -1 , 0]
 
-usernum = input("Enter your number: ")
+usernum = input("Enter your choice: ")
 
 userdict = {"s":1,"w":-1,"g":0}
 
